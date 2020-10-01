@@ -1,0 +1,6 @@
+.vs
+ModelLib/bin
+UnitTest/bin
+ModelLib/obj
+UnitTest/obj
+TestResults
